@@ -1,0 +1,34 @@
+- Studant
+  - Can create a new account
+    - Can login
+    - Can logout
+  - Can create a new post
+    - Can edit a post
+    - Can delete a post
+    - Can see a list of posts
+  - Can see a list of all the courses
+
+- Teachers
+  - Can create a new account
+    - Can login
+    - Can logout
+  - Can create a new course
+    - Can see a list of all the courses
+    - Can edit a course
+    - Can delete a course
+    - Can see a list of all the students in a course
+
+- Admin
+  - Can create a new account
+  - Can login
+  - Can logout
+  - Can create a new course
+    - Can edit a course
+    - Can delete a course
+    - Can see a list of all the courses
+  - Can see a list of all the students
+    - Can edit a student
+    - Can delete a student
+  - Can list all the teachers
+    - Can edit a teacher
+    - Can delete a teacher
